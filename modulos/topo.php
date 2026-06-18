@@ -18,5 +18,6 @@
 <body>
 <header class="container">
     <h1>Bem-vindo à Nossa Landing Page</h1>
+    <h2>Este projeto foi feito por Kaue e Regilan</h2>
     <h2>Todas as modificações feitas aqui aparecerão no site</h2>
 </header>
