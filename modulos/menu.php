@@ -7,7 +7,8 @@
         <a href="#recursos" class="tabs">Recursos</a>
         <a href="#contato" class="tabs">Contato</a>
         <a href="#localizacao" class="tabs">Localização</a>
-        <a href="#Ifba" class="tabs">Ifba</a>
+        <a href="#parceiros" class="tabs">Parceiros</a>
+        <a href="#informacoes" class="tabs">Informações</a>
     </div>
 </nav>
 <hr>
