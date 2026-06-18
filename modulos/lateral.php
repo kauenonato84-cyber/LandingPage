@@ -1,4 +1,4 @@
-<aside class="col-5">
+<aside class="col-4">
     <div class="sidebar">
         <h4>O que dizem a equipe de desenvolvimento</h4>
         <blockquote>

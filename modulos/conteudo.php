@@ -1,4 +1,4 @@
-<div class="col-7">
+<div class="col-8">
     <h2>Modularizar para uma melhor manutenção e divisão de equipe!</h2>
     <p>Esta é uma landing page construída de forma modular utilizando PHP. 
         Cada seção que você vê aqui é um arquivo separado, facilitando a manutenção futura.</p>
